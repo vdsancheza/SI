@@ -1,0 +1,40 @@
+.reddit_orange { /*International Orange*/
+	color: #FF5700;
+}
+
+.orangered { /*Orange Red*/
+	color: #FF4500;
+}
+
+.upvote { /*Crusta*/
+	color: #FF8b60;
+}
+
+.neutral { /*Pumice*/
+	color: #C6C6C6;
+}
+
+.downvote { /*Portage*/
+	color: #9494FF;
+}
+
+.light_bg { /*Alice Blue*/
+	color: #9494FF;
+}
+
+.header { /*Hawkes Blue*/
+	color: #CEE3F8;
+}
+
+.ui_text { /*Lapis Lazuli*/
+	color: #336699;
+}
+
+div.logo {
+	background-image: url(../images/2SL.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
